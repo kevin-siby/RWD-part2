@@ -17,8 +17,8 @@
 <li>1/2 teaspoon vanilla extract</li>
 <li>1/2 cup mini chocolate chips</li>
 <h2>Instructions</h2>
-<ol>
-  <li>Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper.</li>
+<ol type="1">
+ <li>Preheat your oven to 350°F (175°C) and line a baking sheet with parchment paper.</li>
 <li>In a bowl, whisk together the flour and baking soda.</li>
 <li>In another bowl, beat the butter, sugar, and vanilla extract until creamy.</li>
 <li>Gradually add the dry ingredients to the wet mixture, then fold in the mini chocolate chips.</li>
